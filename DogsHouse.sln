@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DogsHouse.Data", "DogsHouse.Data\DogsHouse.Data.csproj", "{EEFE919E-2993-4D81-A99C-F977738236EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DogsHouse", "DogsHouse\DogsHouse.csproj", "{939A8BEC-7559-4AD0-B24E-35F1D0EAFC0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEFE919E-2993-4D81-A99C-F977738236EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEFE919E-2993-4D81-A99C-F977738236EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEFE919E-2993-4D81-A99C-F977738236EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEFE919E-2993-4D81-A99C-F977738236EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{939A8BEC-7559-4AD0-B24E-35F1D0EAFC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939A8BEC-7559-4AD0-B24E-35F1D0EAFC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939A8BEC-7559-4AD0-B24E-35F1D0EAFC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939A8BEC-7559-4AD0-B24E-35F1D0EAFC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {184AFE23-0A4F-4131-81AC-3550ECF608AA}
+	EndGlobalSection
+EndGlobal
